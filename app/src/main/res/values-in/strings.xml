@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv">Acara TV</string>
+    <string name="title_movie_favorite">Film Favorite</string>
+    <string name="title_tv_favorite">Acara TV Favorite</string>
+    <string name="score_list">Skor : </string>
+    <string name="release_text">Tanggal Rilis : </string>
+    <string name="content_desc">Klik aku, aku mempunyai deskripsi</string>
+    <string name="photo_desc">Ini adalah foto film atau acara tv</string>
+    <string name="language">id-ID</string>
+    <string name="reminder">Pengaturan Pengingat</string>
+    <string name="search">Cari</string>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <string name="title_tv_mv">Title Mv Tv</string>
+    <string name="release_tv_mv">Release Mv Tv</string>
+    <string name="score_tv_mv">Score Mv Tv</string>
+    <string name="vote_count_tv_mv">Vote Count Mv Tv</string>
+    <string name="id_tv_mv">ID Mv Tv</string>
+    <string name="original_language_tv_mv">Original Language Mv Tv</string>
+    <string name="overview_tv_mv">Overview Mv Tv</string>
+    <string name="sub_release">Tanggal Rilis</string>
+    <string name="sub_score">Skor</string>
+    <string name="sub_id_movie">Id Movie</string>
+    <string name="sub_id_tv_show">Id Tv Show</string>
+    <string name="sub_vote_count">Perhitungan Suara</string>
+    <string name="sub_original_language">Bahasa Pengucapan</string>
+    <string name="sub_overview">Ringkasan Singkat</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_favorite">Favorit</string>
+
+    <string name="appwidget_text">Acara Tv Film Favorit</string>
+    <string name="empty_text">Tidak Ada Data</string>
+    <string name="release_reminder">Pengingat Rilis</string>
+    <string name="reminder_showing_the_movie_this_missied_today">Pengingat Menunjukan Film Baru Hari ini </string>
+    <string name="on_switch">Nyala</string>
+    <string name="off_switch">Mati</string>
+    <string name="daily_reminder">Pengingat Harina</string>
+    <string name="check_catalog_movie">Tolong Check Katalog Film</string>
+</resources>

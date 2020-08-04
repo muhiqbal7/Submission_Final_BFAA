@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Movie Catalog</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tv">TV Show</string>
+    <string name="title_movie_favorite">Movie Favorite</string>
+    <string name="title_tv_favorite">TV Show Favorite</string>
+    <string name="score_list">Score : </string>
+    <string name="release_text">Release Date : </string>
+    <string name="content_desc">Click me, i have description</string>
+    <string name="photo_desc">This is photo Movie or Tv Show</string>
+    <string name="language">en-US</string>
+    <string name="reminder">Setting Reminder</string>
+    <string name="search">Search</string>
+
+    <string name="change_language_settings">Change Language Settings</string>
+
+    <string name="title_tv_mv">Title Mv Tv</string>
+    <string name="release_tv_mv">Release Mv Tv</string>
+    <string name="score_tv_mv">Score Mv Tv</string>
+    <string name="vote_count_tv_mv">Vote Count Mv Tv</string>
+    <string name="id_tv_mv">ID Mv Tv</string>
+    <string name="original_language_tv_mv">Original Language Mv Tv</string>
+    <string name="overview_tv_mv">Overview Mv Tv</string>
+    <string name="sub_release">Release Date</string>
+    <string name="sub_score">Score</string>
+    <string name="sub_id_movie">Id Movie</string>
+    <string name="sub_id_tv_show">Id Tv Show</string>
+    <string name="sub_vote_count">Vote Count</string>
+    <string name="sub_original_language">Original Language</string>
+    <string name="sub_overview">Overview</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="appwidget_text">Movie TvShow Favorite</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="reminder_showing_the_movie_this_missied_today">Reminder showing the movie this missied today</string>
+    <string name="on_switch">On</string>
+    <string name="off_switch">Off</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="check_catalog_movie">Please Check Catalog Movie</string>
+
+</resources>
